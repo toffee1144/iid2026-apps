@@ -8,7 +8,21 @@ title: PCOScan
 
 PCOScan is a PCOS self-screening and risk assessment companion. You answer a symptom questionnaire and can add symptom photos, and the app gives you a risk estimate with general suggestions.
 
-Need help, found a bug, or want your account and data deleted? Open an issue at [https://github.com/toffee1144/iid2026-apps/issues](https://github.com/toffee1144/iid2026-apps/issues) and include the app name.
+### Contact us
+
+Questions, bug reports, feedback, or want your account and data deleted? Email us at [adityafarel840@gmail.com](mailto:adityafarel840@gmail.com) with "PCOScan" in the subject. We reply within 3 business days.
+
+You can also open an issue at [https://github.com/toffee1144/iid2026-apps/issues](https://github.com/toffee1144/iid2026-apps/issues) and include the app name.
+
+### Frequently asked questions
+
+**Is PCOScan a diagnosis?** No. It gives an informational risk estimate only. Please see a qualified health professional about your symptoms.
+
+**I forgot my password.** Email us from the address you use and include your username, and we will help you regain access.
+
+**How do I delete my account and data?** Email us with your username and the words "delete my account". We will remove your account, screenings and photos.
+
+**Are my photos and answers shared?** Only what is needed to generate your analysis is sent to OpenAI. We do not sell your data. See the privacy policy below.
 
 <a id="privacy-policy"></a>
 ## Privacy Policy
