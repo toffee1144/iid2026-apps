@@ -13,10 +13,10 @@ Need help, found a bug, or want your account and data deleted? Open an issue at 
 <a id="privacy-policy"></a>
 ## Privacy Policy
 
-Last updated: 2026-09-21
+Last updated: 2026-10-23
 
 ### What we collect
-- Account details: name, email address, an optional PIN, and your password (both stored only as salted hashes).
+- Account details: a nickname (you do not need to use your real name), a username, an optional PIN, and your password (the PIN and password are stored only as salted hashes). We do not ask for an email address.
 - Money records you enter: balance, allowance, spending and saving transactions with categories, points history and shop purchases. These are in-app records only; the app does not connect to bank accounts or handle real payments.
 - Savings goals: name, icon, target amount, amount saved and an optional photo taken with the camera or chosen from your photo library.
 - Your mascot name and your chat messages with Capy.

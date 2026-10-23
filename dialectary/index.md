@@ -13,20 +13,21 @@ Need help, found a bug, or want your account and data deleted? Open an issue at 
 <a id="privacy-policy"></a>
 ## Privacy Policy
 
-Last updated: 2026-09-21
+Last updated: 2026-10-23
 
 ### What we collect
 - Account details: username, email address, and your password (stored only as a salted hash). If you sign in with Google or Apple, we store the account identifier and email address they provide instead of a password.
 - Learning profile: avatar color, preferred and native language, learning goal, and your active region and language.
 - Progress: completed lessons, saved words, level, XP, streak, diamonds, achievements and daily mission progress.
 - Community activity: vocabulary words you submit and your votes on other submissions. Your username can appear on leaderboards.
-- Camera: the Camera Scanner uses your camera live on your device. Photos taken with it are not uploaded to our server.
+- Camera scanner photos: when you use the Camera Scanner and capture a photo, that photo is sent through our server to OpenAI so it can recognise the object and suggest a word. We do not keep the photo after the result is returned.
+- AI tutor and translator: the text you type into the AI tutor and translator is sent through our server to OpenAI to produce a reply.
 
 ### Why we collect it
 We use this data to run the app: sign-in, saving your progress, leaderboards, achievements and community vocabulary.
 
 ### Storage and sharing
-Your data is stored on the app server. We do not sell your data. Google Sign-In and Sign in with Apple are used only for logging in; they provide us with a signed identity token that we verify, and we do not receive your Google or Apple password.
+Your data is stored on the app server. We do not sell your data. OpenAI receives the camera scanner photos and the tutor and translator text described above, only to generate the result you asked for. Google Sign-In and Sign in with Apple are used only for logging in; they provide us with a signed identity token that we verify, and we do not receive your Google or Apple password.
 
 ### Retention and deletion
 Your data is kept until you ask us to delete it. To request deletion, open an issue at [https://github.com/toffee1144/iid2026-apps/issues](https://github.com/toffee1144/iid2026-apps/issues) and include the app name.
